@@ -10,7 +10,7 @@ const Header = () => {
         <Container>
           <LinkContainer to='/'>
             <Nav.Link>
-              <Navbar.Brand href='#home'>ProShop</Navbar.Brand>
+              <Navbar.Brand>ProShop</Navbar.Brand>
             </Nav.Link>
           </LinkContainer>
 
